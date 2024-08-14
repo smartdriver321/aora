@@ -1,4 +1,4 @@
-import { ActivityIndicator, Text, TouchableOpacity } from 'react-native'
+import { Text, TouchableOpacity, ActivityIndicator } from 'react-native'
 
 export default function CustomButton({
 	title,
